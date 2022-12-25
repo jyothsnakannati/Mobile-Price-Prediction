@@ -12,3 +12,26 @@ Step-2: Individual decision trees are constructed for each sample.
 Step-3: Each decision tree will generate an output.
 
 Step-4: Final output is considered based on Majority Voting or Averaging For Classification and regression respectively.
+# Design
+![image](https://user-images.githubusercontent.com/121303710/209459102-fce63f7d-9ec7-44ee-90a3-8d92b13bd512.png)
+![image](https://user-images.githubusercontent.com/121303710/209459188-5b913028-b6b9-4975-a52d-de6b5027631b.png)
+
+# Implementation
+Random Forest Algorithm :
+
+Step 1: In Random forest n number of random records are taken from the data set having k number of records.
+
+Step 2: Individual decision trees are constructed for each sample.
+
+Step 3: Each decision tree will generate an output.
+
+Step 4: Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
+# Implementation-Modules Used
+Pandas : Pandas is an open source library in Python. It provides ready to use high-performance data structures and data analysis tools. . Pandas is a fast, powerful, flexible and easy to use,open source data analysis and manipulation tool, built on top of the Python programming language.
+
+Scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning libraray for the python programming language.
+
+Django framework: Django is a free and open-source ,python-based web framework that follows the model–template–views (MTV) architectural pattern.
+# 
+
+
