@@ -45,6 +45,8 @@ HOME PAGE
 2.By upload the previous dataset
 
 ![image](https://user-images.githubusercontent.com/121303710/209459464-e9c31104-2ba3-4f2f-ae45-db24ab35d6cf.png)
+# Predict Page
+![image](https://user-images.githubusercontent.com/121303710/209459613-082f54c0-55cd-4b9b-ba1d-17790c1ccbd1.png)
 
 
 
