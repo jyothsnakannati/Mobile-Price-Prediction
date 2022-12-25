@@ -35,7 +35,9 @@ Django framework: Django is a free and open-source ,python-based web framework t
 ![image](https://user-images.githubusercontent.com/121303710/209459217-b883b39e-ed3f-4f2b-8101-f7e4ad5701f1.png)
 # Web Page 
 HOME PAGE
-![image](https://user-images.githubusercontent.com/121303710/209459334-b7afe962-0b01-4c9a-8f1f-07970eb72f1a.png)
+![home](https://user-images.githubusercontent.com/121303710/209461252-423bd191-009c-4780-a7fa-e103ac89559e.jpg)
+
+
 # Ways to get predicted price
 
 1.By fill The form provided by us
