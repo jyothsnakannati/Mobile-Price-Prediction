@@ -13,7 +13,6 @@ Step-3: Each decision tree will generate an output.
 
 Step-4: Final output is considered based on Majority Voting or Averaging For Classification and regression respectively.
 # Design
-![image](https://user-images.githubusercontent.com/121303710/209459102-fce63f7d-9ec7-44ee-90a3-8d92b13bd512.png)
 ![image](https://user-images.githubusercontent.com/121303710/209459188-5b913028-b6b9-4975-a52d-de6b5027631b.png)
 
 # Implementation
