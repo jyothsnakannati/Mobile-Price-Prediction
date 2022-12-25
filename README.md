@@ -5,6 +5,9 @@ Now a day’s Mobiles become part and parcel human life. And demand for mobiles 
 # Methodology
 Random Forest Algorithm :
 Step-1: In Random forest n number of random records are taken from the data set having k number of records.
+
 Step-2: Individual decision trees are constructed for each sample.
+
 Step-3: Each decision tree will generate an output.
+
 Step-4: Final output is considered based on Majority Voting or Averaging For Classification and regression respectively.
