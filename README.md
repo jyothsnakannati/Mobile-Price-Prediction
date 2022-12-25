@@ -4,6 +4,7 @@ Now a day’s Mobiles become part and parcel human life. And demand for mobiles 
 ![image](https://user-images.githubusercontent.com/121303710/209458881-ceafc895-4994-4c43-aaad-f8570c6f613f.png)
 # Methodology
 Random Forest Algorithm :
+
 Step-1: In Random forest n number of random records are taken from the data set having k number of records.
 
 Step-2: Individual decision trees are constructed for each sample.
