@@ -48,6 +48,23 @@ HOME PAGE
 
 ![image](https://user-images.githubusercontent.com/121303710/209459464-e9c31104-2ba3-4f2f-ae45-db24ab35d6cf.png)
 # Predict Page
+Filling the form 
+
+![redict](https://user-images.githubusercontent.com/121303710/209461526-367d03c8-caf8-4cc0-bd9a-24528549eb1c.jpg)
+
+Predicted Price 
+![output](https://user-images.githubusercontent.com/121303710/209461649-c1fc6cc6-979a-4fe2-8764-5d6b32aa6475.jpg)
+
+
+Uploading the dataset 
+
+![upload](https://user-images.githubusercontent.com/121303710/209461339-f7f7ac52-3acc-45b9-8d37-b96d32d53d52.jpg)
+
+Predicted Price
+![output1](https://user-images.githubusercontent.com/121303710/209461690-b32df1b4-51df-4117-9de2-1f6055fe3cbd.jpg)
+
+
+
 
 
 
