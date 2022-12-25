@@ -46,7 +46,9 @@ HOME PAGE
 
 ![image](https://user-images.githubusercontent.com/121303710/209459464-e9c31104-2ba3-4f2f-ae45-db24ab35d6cf.png)
 # Predict Page
-![image](https://user-images.githubusercontent.com/121303710/209459613-082f54c0-55cd-4b9b-ba1d-17790c1ccbd1.png)
+![image](https://user-images.githubusercontent.com/121303710/209459712-5bc9d066-8a93-41b4-b46b-ae15919d52b5.png)
+![image](https://user-images.githubusercontent.com/121303710/209459721-a2900daa-b27c-46e1-885b-b8c3e969209e.png)
+
 
 
 
